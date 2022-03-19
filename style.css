@@ -2,18 +2,22 @@
     font-family: 'Nunito';
 }
 
+header h2, h1 {
+    color: white;
+    font-family: monospace;
+}
+
 header {
-    background-color: #84FFD3;
+    background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
     text-align: center;
     font-size: 24px;
     font-weight: 400;
-    color: #5C5C5C;
     padding: 1em 0;
 }
 
 main {
     text-align: center;
-    background-color: #BEB3F1;
+    background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
     height: 100vh;
 }
 
@@ -53,4 +57,3 @@ li a {
     color: #5C5C5C;
     text-decoration: none;
 }
-
